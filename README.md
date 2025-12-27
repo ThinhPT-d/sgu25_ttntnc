@@ -1,6 +1,6 @@
 # Trí tuệ nhân tạo nâng cao (Advanced Artificial Intelligence)
 
-> **Repository tổng hợp các bài tập cá nhân, và các challenges (những gì đã làm, đóng góp trong các challenge)**
+> **Repository tổng hợp các bài tập cá nhân, và các lab nhóm (những gì đã làm, đóng góp trong lab nhóm)**
 
 ## Thông tin sinh viên
 
