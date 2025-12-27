@@ -2,10 +2,6 @@
 
 > **Repository tổng hợp các bài tập cá nhân, và các challenges (những gì đã làm, đóng góp trong các challenge)**
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Algorithm](https://img.shields.io/badge/Algorithm-Heuristic%20|%20Local%20Search-orange)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-
 ## Thông tin sinh viên
 
 * **Họ và tên:** Phan Thanh Thịnh
